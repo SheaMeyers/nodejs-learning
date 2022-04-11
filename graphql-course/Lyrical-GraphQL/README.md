@@ -1,4 +1,5 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+Project created while following a graphQL course on Udemy.com
 
-Run with `npm run dev`
+Run with `npm run start`
+
